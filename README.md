@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lwazman
+- 👋 Hi, I’m Lwazi
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Java OCA
 - I'm also a student in ALX Software Engineering 
